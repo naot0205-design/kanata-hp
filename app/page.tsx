@@ -26,7 +26,7 @@ export default function Home() {
 
         <div className="relative max-w-6xl mx-auto px-6 py-24">
           <p className="text-sm tracking-[0.3em] text-blue-300 uppercase mb-6">
-            KANATA Inc.
+            Kanata Inc.
           </p>
           <h1 className="text-5xl md:text-7xl font-bold leading-tight tracking-tight mb-8">
             人とキャリアの、<br />
@@ -105,7 +105,7 @@ export default function Home() {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9 17V7m0 10a2 2 0 01-2 2H5a2 2 0 01-2-2V7a2 2 0 012-2h2a2 2 0 012 2m0 10a2 2 0 002 2h2a2 2 0 002-2M9 7a2 2 0 012-2h2a2 2 0 012 2m0 10V7m0 10a2 2 0 002 2h2a2 2 0 002-2V7a2 2 0 00-2-2h-2a2 2 0 00-2 2" />
                 </svg>
               </div>
-              <h3 className="text-xl font-bold text-gray-900 mb-3">エージェント向け業務管理SaaS「C-Link」</h3>
+              <h3 className="text-xl font-bold text-gray-900 mb-3">エージェント向け業務管理SaaS</h3>
               <p className="text-gray-600 leading-relaxed text-sm mt-3">
                 転職エージェント向け採用管理システム。候補者・求人・進捗を一元管理し、エージェント業務の生産性を飛躍的に向上させるクラウドツールです。
               </p>
@@ -127,7 +127,7 @@ export default function Home() {
               <tbody>
                 {[
                   ["商号", "株式会社kanata"],
-                  ["英文商号", "KANATA Inc."],
+                  ["英文商号", "Kanata Inc."],
                   ["設立", "2026年（設立準備中）"],
                   ["代表取締役", "土元 直"],
                   ["事業内容", "有料職業紹介事業 / 採用業務代行（RPO） / 採用管理SaaS「C-Link」の開発・提供"],
