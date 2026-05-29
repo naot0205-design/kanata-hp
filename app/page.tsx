@@ -147,15 +147,6 @@ export default function Home() {
             </table>
           </div>
 
-          {/* 会社名の由来 */}
-          <div className="mt-12 p-8 bg-gray-900 rounded-2xl text-white">
-            <h3 className="text-lg font-bold mb-4 text-blue-300">社名の由来</h3>
-            <p className="text-gray-300 leading-relaxed text-sm">
-              「kanata（彼方）」とは、遠い場所・未来・可能性を意味する日本語です。<br />
-              個人にとっては「まだ見ぬキャリアの先」、企業にとっては「理想の組織づくりの先」——<br />
-              その「彼方」へと共に向かうパートナーでありたいという想いを込めています。
-            </p>
-          </div>
         </div>
       </section>
 
