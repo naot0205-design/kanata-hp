@@ -25,7 +25,7 @@ export default function Home() {
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_bottom_left,_#0f2027_0%,_transparent_70%)]" />
 
         <div className="relative max-w-6xl mx-auto px-6 py-24">
-          <p className="text-sm tracking-[0.3em] text-blue-300 uppercase mb-6">
+          <p className="text-sm tracking-[0.3em] text-blue-300 mb-6">
             Kanata Inc.
           </p>
           <h1 className="text-5xl md:text-7xl font-bold leading-tight tracking-tight mb-8">
