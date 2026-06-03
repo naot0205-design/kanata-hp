@@ -5,14 +5,14 @@ export default function Home() {
     <div className="min-h-screen bg-white text-gray-900">
       {/* ===== HEADER ===== */}
       <header className="fixed top-0 left-0 right-0 z-50 bg-white/90 backdrop-blur-sm border-b border-gray-100">
-        <div className="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
+        <div className="max-w-6xl mx-auto px-6 h-28 flex items-center justify-between">
           <a href="#top">
             <Image
               src="/kanata-logo-horizontal.png"
               alt="株式会社kanata"
               width={1536}
               height={1024}
-              className="h-14 w-auto object-contain"
+              className="h-28 w-auto object-contain"
             />
           </a>
           <nav className="hidden md:flex items-center gap-8 text-sm text-gray-600">
@@ -26,7 +26,7 @@ export default function Home() {
       {/* ===== HERO ===== */}
       <section
         id="top"
-        className="relative pt-16 min-h-screen flex items-center bg-gray-950 text-white overflow-hidden"
+        className="relative pt-28 min-h-screen flex items-center bg-gray-950 text-white overflow-hidden"
       >
         {/* 背景の装飾 */}
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,_#1e3a5f_0%,_transparent_60%)] opacity-60" />
