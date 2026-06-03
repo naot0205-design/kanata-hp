@@ -128,10 +128,10 @@ export default function Home() {
                 {[
                   ["商号", "株式会社kanata"],
                   ["英文商号", "Kanata Inc."],
-                  ["設立", "2026年（設立準備中）"],
+                  ["設立", "2026年6月"],
                   ["代表取締役", "土元 直"],
                   ["事業内容", "有料職業紹介事業 / 採用業務代行（RPO） / 採用管理SaaS「C-Link」の開発・提供"],
-                  ["所在地", "神奈川県（詳細は設立後に公開）"],
+                  ["所在地", "神奈川県横浜市南区新川町5-30-2 リヴシティ横濱新川町弐番館1102号室"],
                   ["メールアドレス", "info@kanata.careers"],
                 ].map(([label, value], i) => (
                   <tr key={i} className={`border-b border-gray-50 ${i % 2 === 0 ? "bg-white" : "bg-gray-50/50"}`}>
