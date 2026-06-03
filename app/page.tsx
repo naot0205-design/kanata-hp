@@ -130,7 +130,7 @@ export default function Home() {
                   ["英文商号", "Kanata Inc."],
                   ["設立", "2026年6月"],
                   ["代表取締役", "土元 直"],
-                  ["事業内容", "有料職業紹介事業 / 採用業務代行（RPO） / 採用管理SaaS「C-Link」の開発・提供"],
+                  ["事業内容", "有料職業紹介事業 / 採用業務代行（RPO） / 採用管理SaaS「Folia」の開発・提供"],
                   ["所在地", "神奈川県横浜市南区新川町5-30-2 リヴシティ横濱新川町弐番館1102号室"],
                   ["メールアドレス", "info@kanata.careers"],
                 ].map(([label, value], i) => (
@@ -160,7 +160,7 @@ export default function Home() {
 
           <div className="max-w-2xl">
             <p className="text-gray-600 leading-relaxed mb-8">
-              転職相談・採用支援・C-Linkに関するお問い合わせは、以下のメールアドレスよりお気軽にご連絡ください。
+              転職相談・採用支援・Foliaに関するお問い合わせは、以下のメールアドレスよりお気軽にご連絡ください。
             </p>
 
             <a
@@ -193,7 +193,7 @@ export default function Home() {
                   icon: (
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9 17V7m0 10a2 2 0 01-2 2H5a2 2 0 01-2-2V7a2 2 0 012-2h2a2 2 0 012 2m0 10a2 2 0 002 2h2a2 2 0 002-2M9 7a2 2 0 012-2h2a2 2 0 012 2m0 10V7m0 10a2 2 0 002 2h2a2 2 0 002-2V7a2 2 0 00-2-2h-2a2 2 0 00-2 2" />
                   ),
-                  title: "C-Link",
+                  title: "Folia",
                   desc: "デモ・資料請求・導入のご相談はこちら",
                 },
               ].map((item, i) => (
