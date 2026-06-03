@@ -12,7 +12,7 @@ export default function Home() {
               alt="株式会社kanata"
               width={1536}
               height={1024}
-              className="h-28 w-auto object-contain"
+              className="h-10 w-auto object-contain"
             />
           </a>
           <nav className="hidden md:flex items-center gap-8 text-sm text-gray-600">
@@ -228,7 +228,7 @@ export default function Home() {
               alt="株式会社kanata"
               width={1536}
               height={1024}
-              className="h-8 w-auto object-contain brightness-0 invert"
+              className="h-10 w-auto object-contain brightness-0 invert"
             />
           <p className="text-xs">© 2026 株式会社kanata. All rights reserved.</p>
           <nav className="flex gap-6 text-xs">
