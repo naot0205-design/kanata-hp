@@ -105,7 +105,7 @@ export default function Home() {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9 17V7m0 10a2 2 0 01-2 2H5a2 2 0 01-2-2V7a2 2 0 012-2h2a2 2 0 012 2m0 10a2 2 0 002 2h2a2 2 0 002-2M9 7a2 2 0 012-2h2a2 2 0 012 2m0 10V7m0 10a2 2 0 002 2h2a2 2 0 002-2V7a2 2 0 00-2-2h-2a2 2 0 00-2 2" />
                 </svg>
               </div>
-              <h3 className="text-xl font-bold text-gray-900 mb-3">エージェント向け業務管理SaaS</h3>
+              <h3 className="text-xl font-bold text-gray-900 mb-3">エージェント向け業務管理SaaS Folia</h3>
               <p className="text-gray-600 leading-relaxed text-sm mt-3">
                 転職エージェント向け採用管理システム。候補者・求人・進捗を一元管理し、エージェント業務の生産性を飛躍的に向上させるクラウドツールです。
               </p>
