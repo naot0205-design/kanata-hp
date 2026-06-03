@@ -1,11 +1,19 @@
+import Image from "next/image";
+
 export default function Home() {
   return (
     <div className="min-h-screen bg-white text-gray-900">
       {/* ===== HEADER ===== */}
       <header className="fixed top-0 left-0 right-0 z-50 bg-white/90 backdrop-blur-sm border-b border-gray-100">
         <div className="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
-          <a href="#top" className="text-xl font-bold tracking-widest text-gray-900">
-            kanata
+          <a href="#top">
+            <Image
+              src="/kanata-logo-horizontal.png"
+              alt="株式会社kanata"
+              width={1536}
+              height={1024}
+              className="h-10 w-auto object-contain"
+            />
           </a>
           <nav className="hidden md:flex items-center gap-8 text-sm text-gray-600">
             <a href="#services" className="hover:text-gray-900 transition-colors">事業内容</a>
@@ -215,7 +223,13 @@ export default function Home() {
       {/* ===== FOOTER ===== */}
       <footer className="bg-gray-950 text-gray-400 py-10">
         <div className="max-w-6xl mx-auto px-6 flex flex-col md:flex-row items-center justify-between gap-4">
-          <p className="text-white font-bold tracking-widest text-sm">kanata</p>
+          <Image
+              src="/kanata-logo-horizontal.png"
+              alt="株式会社kanata"
+              width={1536}
+              height={1024}
+              className="h-8 w-auto object-contain brightness-0 invert"
+            />
           <p className="text-xs">© 2026 株式会社kanata. All rights reserved.</p>
           <nav className="flex gap-6 text-xs">
             <a href="#services" className="hover:text-white transition-colors">事業内容</a>
