@@ -37,13 +37,13 @@ export default function Home() {
             Kanata Inc.
           </p>
           <h1 className="text-5xl md:text-7xl font-bold leading-tight tracking-tight mb-8">
-            人とキャリアの、<br />
-            <span className="text-blue-400">その先へ。</span>
+            火種を、<br />
+            <span className="text-orange-400">大炎へ。</span>
           </h1>
           <p className="text-lg md:text-xl text-gray-300 max-w-xl leading-relaxed mb-12">
             転職支援・採用代行・採用SaaSを通じて、
             <br className="hidden md:block" />
-            企業と個人のキャリアを共に前進させます。
+            企業と個人を次のフェーズへ前進させます。
           </p>
           <div className="flex flex-wrap gap-4">
             <a
