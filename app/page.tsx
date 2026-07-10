@@ -36,7 +36,7 @@ export default function Home() {
           <p className="text-sm tracking-[0.3em] text-blue-300 mb-6">
             Kanata Inc.
           </p>
-          <h1 className="text-5xl md:text-7xl lg:text-8xl xl:text-9xl font-bold leading-tight tracking-tight mb-8">
+          <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold leading-tight tracking-tight mb-8">
             火種を、<br />
             <span className="text-orange-400">大炎へ。</span>
           </h1>
@@ -136,8 +136,8 @@ export default function Home() {
                 {[
                   ["商号", "株式会社kanata"],
                   ["英文商号", "Kanata Inc."],
-                  ["設立", "2026年6月"],
-                  ["代表取締役", "土元 直"],
+                  ["設立", "2026年7月"],
+                  ["代表者", "土元 直・入交 拓馬"],
                   ["事業内容", "有料職業紹介事業 / 採用業務代行（RPO） / 採用管理SaaS「Folia」の開発・提供"],
                   ["所在地", "神奈川県横浜市南区新川町5-30-2 リヴシティ横濱新川町弐番館1102号室"],
                   ["メールアドレス", "info@kanata.careers"],
