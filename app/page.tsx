@@ -36,9 +36,9 @@ export default function Home() {
           <p className="text-sm tracking-[0.3em] text-blue-300 mb-6">
             Kanata Inc.
           </p>
-          <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold leading-tight tracking-tight mb-8">
-            火種を、<br />
-            <span className="text-orange-400">大炎へ。</span>
+          <h1 className="text-5xl md:text-7xl lg:text-[5rem] font-bold leading-tight tracking-tight mb-8">
+            可能性の、<br />
+            <span className="text-blue-400">その先へ。</span>
           </h1>
           <p className="text-lg md:text-2xl text-gray-300 max-w-xl leading-relaxed mb-12">
             転職支援・採用代行・採用SaaSを通じて、
