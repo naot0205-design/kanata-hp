@@ -140,6 +140,7 @@ export default function Home() {
                   ["代表者", "土元 直・入交 拓馬"],
                   ["事業内容", "有料職業紹介事業 / 採用業務代行（RPO） / 採用管理SaaS「Folia」の開発・提供"],
                   ["所在地", "神奈川県横浜市南区新川町5-30-2 リヴシティ横濱新川町弐番館1102号室"],
+                  ["電話番号", "045-550-7620"],
                   ["メールアドレス", "info@kanata.careers"],
                 ].map(([label, value], i) => (
                   <tr key={i} className={`border-b border-gray-50 ${i % 2 === 0 ? "bg-white" : "bg-gray-50/50"}`}>
