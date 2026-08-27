@@ -170,7 +170,9 @@ export default function Home() {
 
           <div className="max-w-2xl">
             <p className="text-gray-600 leading-relaxed mb-8">
-              転職相談・採用支援・Foliaに関するお問い合わせは、以下のメールアドレスよりお気軽にご連絡ください。
+              転職相談・採用支援・Foliaに関するお問い合わせは、
+              <span className="whitespace-nowrap">以下のメールアドレスより</span>
+              <span className="whitespace-nowrap">お気軽にご連絡ください。</span>
             </p>
 
             <a
