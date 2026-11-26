@@ -83,7 +83,7 @@ export default function Home() {
               </div>
               <h3 className="text-xl font-bold text-gray-900 mb-3">転職支援</h3>
               <p className="text-sm text-gray-500 mb-4 leading-relaxed">
-                有料職業紹介事業（許可申請中）
+                有料職業紹介事業
               </p>
               <p className="text-gray-600 leading-relaxed text-sm">
                 キャリアアドバイザーが求職者の可能性を引き出し、最適なキャリアへと繋げます。単なるマッチングではなく、長期的なキャリア形成を伴走支援します。
